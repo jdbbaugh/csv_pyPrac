@@ -32,6 +32,6 @@ def get_month_stats(provided_file, month):
 # -MONTH CAN BE PLACED AS SECOND PARAMETER AS LONG AS IT IS DAY-MONTH FORMAT IN FILE
 
 #for july stats
-get_month_stats('DATA_MERGED.CSV', 'Jul')
+# get_month_stats('DATA_MERGED.CSV', 'Jul')
 #for jun stats
-# get_month_stats('DATA_MERGED.CSV', 'Jun')
+get_month_stats('DATA_MERGED.CSV', 'Jun')
